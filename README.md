@@ -35,7 +35,6 @@ flowchart LR
 - Button zum Zurücksetzen der Wissensbasis
 - Die Datenbank bleibt gespeichert, die PDFs müssen nicht bei jedem Start neu verarbeitet werden
 
-<!-- TODO: Prüfe vor dem Push, ob jeder Punkt wirklich funktioniert. Streiche, was nicht stimmt. -->
 
 ## Technik
 
