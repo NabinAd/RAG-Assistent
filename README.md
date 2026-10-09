@@ -45,7 +45,7 @@ Python, Streamlit, LangChain, Chroma, Ollama (`llama3.2` für Antworten, `nomic-
 
 ```powershell
 git clone https://github.com/NabinAd/RAG-Assistent
-cd RAG-assistant
+cd RAG-Assistant
 
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
